@@ -1,1 +1,0 @@
-thresh_binary_mask
